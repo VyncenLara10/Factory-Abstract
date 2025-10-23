@@ -1,0 +1,1 @@
+{"version":3,"file":"DocumentClient.d.ts","sourceRoot":"","sources":["../../src/client/DocumentClient.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,uBAAuB,EAAE,MAAM,sCAAsC,CAAC;AAC/E,OAAO,EAAE,aAAa,EAAE,MAAM,uBAAuB,CAAC;AAEtD,qBAAa,cAAc;IACb,OAAO,CAAC,OAAO;gBAAP,OAAO,EAAE,uBAAuB;IAEpD,eAAe,CAAC,KAAK,EAAE,aAAa,GAAG,MAAM;CA8C9C"}

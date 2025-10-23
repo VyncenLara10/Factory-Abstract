@@ -1,17 +1,26 @@
 {
   "name": "document-converter",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Abstract Factory Pattern - Document Converter",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test1": "npm run dev tests/test1.json",
+    "test2": "npm run dev tests/test2.json",
+    "test3": "npm run dev tests/test3.json"
   },
-  "keywords": [],
+  "keywords": [
+    "abstract-factory",
+    "design-patterns",
+    "typescript"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
-    "@types/node": "^24.9.1",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
   }
 }

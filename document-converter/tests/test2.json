@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title1": "Documento HTML",
+    "title2": "Subtítulo Importante",
+    "paragraph": "Este documento será convertido a formato HTML.",
+    "title3": "Detalles adicionales",
+    "quote": "El código es poesía",
+    "image": "https://ejemplo.com/photo.png|Fotografía"
+  },
+  "convert": "html"
+}

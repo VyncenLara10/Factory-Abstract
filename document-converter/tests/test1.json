@@ -1,0 +1,10 @@
+{
+  "data": {
+    "title1": "Mi Primer Documento",
+    "paragraph": "Este es un párrafo de ejemplo",
+    "title2": "Segunda Sección",
+    "quote": "La única forma de hacer un gran trabajo es amar lo que haces - Steve Jobs",
+    "image": "https://ejemplo.com/imagen.jpg"
+  },
+  "convert": "markdown"
+}

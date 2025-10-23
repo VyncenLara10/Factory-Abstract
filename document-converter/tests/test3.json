@@ -1,0 +1,11 @@
+{
+  "data": {
+    "title1": "Tutorial Completo",
+    "paragraph": "Bienvenido a este tutorial donde aprenderás sobre patrones de diseño.",
+    "title2": "Abstract Factory",
+    "quote": "Los patrones de diseño son soluciones probadas a problemas comunes",
+    "title3": "Implementación",
+    "image": "https://ejemplo.com/diagram.svg|Diagrama UML"
+  },
+  "convert": "markdown"
+}

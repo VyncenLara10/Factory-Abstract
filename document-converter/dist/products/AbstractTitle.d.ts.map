@@ -1,0 +1,1 @@
+{"version":3,"file":"AbstractTitle.d.ts","sourceRoot":"","sources":["../../src/products/AbstractTitle.ts"],"names":[],"mappings":"AAAA,8BAAsB,aAAa;IACrB,SAAS,CAAC,OAAO,EAAE,MAAM;IAAE,SAAS,CAAC,KAAK,EAAE,MAAM;gBAAxC,OAAO,EAAE,MAAM,EAAY,KAAK,EAAE,MAAM;IAC9D,QAAQ,CAAC,MAAM,IAAI,MAAM;CAC1B"}
